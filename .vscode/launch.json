@@ -1,0 +1,23 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "number_14",
+            "request": "launch",
+            "mainClass": "number_14",
+            "projectName": "leetcode_f37c6d82"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}",
+            "projectName": "your-project-name",
+            "vmArgs": "-XX:+ShowCodeDetailsInExceptionMessages"
+        }
+    ]
+}
